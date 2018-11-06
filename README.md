@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## This is something by somebuddy
+
+Make of it what you will. Or don't – doesn't matter.
 
 You can use the [editor on GitHub](https://github.com/Somebuddy1/something/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
